@@ -99,8 +99,7 @@ public class MainActivity extends AppCompatActivity {
         @Override
         public void onPostExecute(String s) {
             progressDialog.hide();
-            Toast.makeText(MainActivity.this, "Message sent", Toast.LENGTH_LONG).show();
-
+            Toast.makeText(MainActivity.this, "Message has sent", Toast.LENGTH_LONG).show();
         }
     }
 }
