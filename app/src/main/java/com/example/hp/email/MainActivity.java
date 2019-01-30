@@ -100,6 +100,7 @@ public class MainActivity extends AppCompatActivity {
         public void onPostExecute(String s) {
             progressDialog.hide();
             Toast.makeText(MainActivity.this, "Message has sent", Toast.LENGTH_LONG).show();
+            // jhgdhhhjgdsyxxhtyx
         }
     }
 }
