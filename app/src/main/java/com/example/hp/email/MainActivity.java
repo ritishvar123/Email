@@ -102,6 +102,7 @@ public class MainActivity extends AppCompatActivity {
             Toast.makeText(MainActivity.this, "Message has sent", Toast.LENGTH_LONG).show();
             // jhgdhhhjgdsyxxhtyx
             //nchcjhcjhch
+            // jhvhjcjjhccccccg
         }
     }
 }
