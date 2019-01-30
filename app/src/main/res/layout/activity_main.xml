@@ -19,6 +19,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Subject"
+        android:text="skbdkvdf"
         android:id="@+id/editText2"
         android:layout_below="@+id/editText" />
 
@@ -26,6 +27,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Message"
+        android:text="skbdkvdf"
         android:id="@+id/editText3"
         android:layout_below="@+id/editText2" />
 
@@ -33,6 +35,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Send"
+        android:text="skbdkvdf"
         android:id="@+id/button"
         android:layout_below="@+id/editText3" />
 
